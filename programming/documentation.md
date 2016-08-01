@@ -47,9 +47,12 @@ Things that should be considered the bare minimum in a readme file:
 
 A user starting out with an OSS project has the same fundamental need as on any ole' other website. Toy around with the idea to employ story telling to further steps.
 
-```
-Expand on this idea
-```
+An example for this could be a getting started guide that is available globally and displayed directly when
+starting a project for the first time. This idea is untested but can be seen in action at [patternplate](https://github.com/sinnerschrader/patternplate/blob/02b1eca5568c4ce77b0bf32fe7780a3f3a0b9811/documentation/pattern-development.md). The getting started guide about pattern development is thrown into any
+project scaffolded via `patternplate init` and displayed as initial content when firing up the interface.
+
+![patternplate getting started guide](../.assets/patternplate-init-demo.gif)
+
 
 ## See also
 
