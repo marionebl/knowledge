@@ -1,8 +1,6 @@
 # Documentation
 
-Arguably docs are the single most important part of projects you expect people to actually use.
-
-Simply put:
+Docs are the most important part of projects you expect people to use.
 
 > If people **don’t know why** your project exists,
 they won’t use it.
@@ -13,7 +11,7 @@ they won’t use it.
 > If people can’t figure out **how to use** your code,
 they won’t use it.
 
-Keep in mind: This applies to your future self, too.
+Keep in mind this especially applies to your future self.
 
 ## Types of documentation
 
@@ -25,18 +23,18 @@ Keep in mind: This applies to your future self, too.
 
 ## Rules for better writing
 
-*  Know your audience, consider creating a Persona
+*  Know your audience and create a Persona
 *  Define the reader's use case
-*  Consider the circumstances of use
-*  Make the audience/use case definitions part of the docs
+*  Think about circumstances of use
+*  Make definitions part of the docs
 *  Short sentences
 *  Avoid filler phrases: that, "I think"
-*  Avoid gerund
+*  Avoid gerund and passive constructions
 *  Short paragraphs. 3 sentences max
 
 ## Docs for Open Source projects
 
-Things that should be considered the bare minimum in a readme file:
+Must haves in a readme:
 
 *  State the place in software life cycle
 *  Describe very briefly what it actually does
@@ -49,12 +47,13 @@ Things that should be considered the bare minimum in a readme file:
 
 ## Beyond the readme
 
-A user starting out with an OSS project has the same fundamental need as on any ole' other website.
 Toy around with the idea to employ story telling to further steps.
 
-An example for this could be a getting started guide that is available globally and displayed directly when
-starting a project for the first time. This idea is untested but can be seen in action at [patternplate](https://github.com/sinnerschrader/patternplate/blob/02b1eca5568c4ce77b0bf32fe7780a3f3a0b9811/documentation/pattern-development.md). The getting started guide about pattern development is thrown into any
-project scaffolded via `patternplate init` and displayed as initial content when firing up the interface.
+An example for this is a getting started guide that displays directly when
+a user starts the project for the first time.
+
+I have yet to test the idea extensively. It is live at [patternplate](https://github.com/sinnerschrader/patternplate/blob/02b1eca5568c4ce77b0bf32fe7780a3f3a0b9811/documentation/pattern-development.md) anyway.
+ `patternplate init` puts the getting started guide as initial content into new projects.
 
 ![patternplate getting started guide](../.assets/patternplate-init-demo.gif)
 
