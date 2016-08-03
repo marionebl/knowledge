@@ -16,7 +16,7 @@ Really hard nuts to crack in this problem space:
 Introduced by webpack into the JavaScript landscape.
 Best in class REPL experience when things do not go wrong.
 Has issues with error handling.
-Kills source debuggs because there is `eval`ing going on.
+Kills source debugging because there is `eval`ing going on.
 See [browserfiy-hmr](https://github.com/AgentME/browserify-hmr)
 
 ### Remote debugging protocol sourcing
