@@ -29,6 +29,10 @@ Keep in mind: This applies to your future self, too.
 *  Define the reader's use case
 *  Consider the circumstances of use
 *  Make the audience/use case definitions part of the docs
+*  Short sentences
+*  Avoid filler phrases: that, "I think"
+*  Avoid gerund
+*  Short paragraphs. 3 sentences max
 
 ## Docs for Open Source projects
 
@@ -45,7 +49,8 @@ Things that should be considered the bare minimum in a readme file:
 
 ## Beyond the readme
 
-A user starting out with an OSS project has the same fundamental need as on any ole' other website. Toy around with the idea to employ story telling to further steps.
+A user starting out with an OSS project has the same fundamental need as on any ole' other website.
+Toy around with the idea to employ story telling to further steps.
 
 An example for this could be a getting started guide that is available globally and displayed directly when
 starting a project for the first time. This idea is untested but can be seen in action at [patternplate](https://github.com/sinnerschrader/patternplate/blob/02b1eca5568c4ce77b0bf32fe7780a3f3a0b9811/documentation/pattern-development.md). The getting started guide about pattern development is thrown into any
