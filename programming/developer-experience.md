@@ -11,6 +11,12 @@ Really hard nuts to crack in this problem space:
 
 ## Techniques
 
+### Keyboard shortcuts
+
+Developers are affine to keyboard-only usage of tools.
+Simple keyboard shortcuts with sequences up to three make users faster.
+See [ux.stackexchange.com](http://ux.stackexchange.com/a/30749)
+
 ### Hot module replacement
 
 Introduced by webpack into the JavaScript landscape.
