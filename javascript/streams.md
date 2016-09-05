@@ -1,5 +1,6 @@
 # Streams
-Streams are Node's control flow abstraction for handling data in time. As such they are a cornerstone of the event-driven, non-blocking I/O Node implements on top of v8.
+Streams are Node's control flow abstraction for handling data in time.
+As such they are a cornerstone of the event-driven, non-blocking I/O Node implements on top of v8.
 
 Operations performed by streams are `reading`, `writing` and `transforming`. Node provides base classes for these purposes:
 
