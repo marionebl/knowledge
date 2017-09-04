@@ -5,7 +5,6 @@ Ideas for project, libraries and features to implement
 ## Work in progress
 
 * [ ] Animated SVG renderer for [asciinema](https://github.com/asciinema/asciinema-player) for usage in Github markdown. ([WIP](https://github.com/marionebl/asciicast-to-svg/tree/feat/terminal-sequences))
-* [ ] **patternplate**: Livereload via SSE ([WIP](https://github.com/sinnerschrader/patternplate/tree/chore/lernaify))
 
 ## Tools
 
@@ -15,7 +14,7 @@ Ideas for project, libraries and features to implement
 
 ## Libraries
 
-* [ ] **react-term**: React renderer for terminals striking the middleground between [ink](https://github.com/vadimdemedes/ink) and [mylittledom](https://github.com/manaflair/mylittledom) Should support flexbox layouts, event delegation
+* [ ] **react-term**: React renderer for terminals striking the middleground between [ink](https://github.com/vadimdemedes/ink) and [mylittledom](https://github.com/manaflair/mylittledom) Should support flexbox layouts, event delegation.
 
 ## Features
 
