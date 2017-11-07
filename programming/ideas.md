@@ -11,6 +11,7 @@ Ideas for project, libraries and features to implement
 * [ ] Styleguide creator interface for [patternplate](https://github.com/sinnerschrader/patternplate)
 * [ ] Blueant interface (think Google Calender Week View)
 * [ ] **lerna-dashbaord**: Webinterface for meta information connected to lerna repos
+* [ ] dependency-checker bot skimming through npm packages proactively, producing PRs
 
 ## Libraries
 
