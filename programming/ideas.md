@@ -13,6 +13,7 @@ Ideas for project, libraries and features to implement
 * [ ] Styleguide creator interface for [patternplate](https://github.com/sinnerschrader/patternplate)
 * [ ] Blueant interface (think Google Calender Week View)
 * [ ] **lerna-dashbaord**: Webinterface for meta information connected to lerna repos
+* [ ] `travis-bot`: Generic bot that triggers Travis CI builds for (configurable) `pull-request.*` events   
 
 ## Libraries
 
