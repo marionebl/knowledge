@@ -4,6 +4,7 @@ Ideas for project, libraries and features to implement
 
 ## Work in progress
 * [ ] configurable `commitlint` bot: https://github.com/ahmed-taj/commitlint-bot
+* [ ] dedicated git editor. poc at https://github.com/marionebl/git-editor
 
 ## Done
 * [x] Animated SVG renderer for [asciinema](https://github.com/asciinema/asciinema-player) for usage in Github markdown. https://github.com/marionebl/svg-term-cli
