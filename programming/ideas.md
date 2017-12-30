@@ -3,15 +3,16 @@
 Ideas for project, libraries and features to implement
 
 ## Work in progress
+* [ ] configurable `commitlint` bot: https://github.com/ahmed-taj/commitlint-bot
 
-* [ ] Animated SVG renderer for [asciinema](https://github.com/asciinema/asciinema-player) for usage in Github markdown. ([WIP](https://github.com/marionebl/asciicast-to-svg/tree/feat/terminal-sequences))
+## Done
+* [x] Animated SVG renderer for [asciinema](https://github.com/asciinema/asciinema-player) for usage in Github markdown. https://github.com/marionebl/svg-term-cli
 
 ## Tools
 
 * [ ] Styleguide creator interface for [patternplate](https://github.com/sinnerschrader/patternplate)
 * [ ] Blueant interface (think Google Calender Week View)
 * [ ] **lerna-dashbaord**: Webinterface for meta information connected to lerna repos
-* [ ] dependency-checker bot skimming through npm packages proactively, producing PRs
 
 ## Libraries
 
@@ -19,8 +20,11 @@ Ideas for project, libraries and features to implement
 
 ## Features
 
-* [ ] [**bankai**](https://github.com/yoshuawuyts/bankai/issues/31) Hot Module Replacement
 * [ ] **patternplate**: Network visualization of pattern dependencies
 * [ ] **@commitlint/prompt**: Inline editing interface
 * [ ] **@commitlint/prompt**: Explanations for fields
 * [ ] **@commitlint/core**: Perform automatic fixes
+
+## Obsolete
+* [ ] ~~[**bankai**](https://github.com/yoshuawuyts/bankai/issues/31) Hot Module Replacement~~
+* [ ] ~~dependency-checker bot skimming through npm packages proactively, producing PRs~~ https://renovateapp.com/
