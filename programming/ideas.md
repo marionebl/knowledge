@@ -21,7 +21,7 @@ Ideas for project, libraries and features to implement
 ## Libraries
 
 * [ ] **react-term**: React renderer for terminals striking the middleground between [ink](https://github.com/vadimdemedes/ink) and [mylittledom](https://github.com/manaflair/mylittledom) Should support flexbox layouts, event delegation.
-* [ ] **default-css**: Mapping between tag names and applicable default styles. Automate as much as feasible. Reference: [html5](https://www.w3.org/TR/html5/rendering.html#replaced-elements), [webkit](https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css), [gecko](https://dxr.mozilla.org/mozilla-central/source/layout/style/res/html.css), [] 
+* [ ] **default-css**: Mapping between tag names and applicable default styles. Automate as much as feasible. Reference: [html5](https://www.w3.org/TR/html5/rendering.html#replaced-elements), [webkit](https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css), [gecko](https://dxr.mozilla.org/mozilla-central/source/layout/style/res/html.css)
 
 ## Features
 
