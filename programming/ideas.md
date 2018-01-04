@@ -17,6 +17,7 @@ Ideas for project, libraries and features to implement
 * [ ] `travis-bot`: Generic bot that triggers Travis CI builds for (configurable) `pull-request.*` events
 * [ ] `vscode-commitlint`: vscode plugin providing inline linting and intellisense for commit messages
 * [ ] Grammar-based, extensible commit parser. First thoughts: https://github.com/conventional-changelog/conventional-changelog/issues/238
+* [ ] Build svg version of https://github.com/dawnlabs/carbon
 
 ## Libraries
 
