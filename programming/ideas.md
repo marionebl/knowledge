@@ -14,7 +14,7 @@ Ideas for project, libraries and features to implement
 * [ ] Styleguide creator interface for [patternplate](https://github.com/sinnerschrader/patternplate)
 * [ ] Blueant interface (think Google Calender Week View)
 * [ ] **lerna-dashbaord**: Webinterface for meta information connected to lerna repos
-* [ ] `travis-bot`: Generic bot that triggers Travis CI builds for (configurable) `pull-request.*` events
+* [ ] `travis-bot`: Generic bot that triggers Travis CI builds for (configurable) `pull-request.*` events. Could be implemented by using a worker-queue repository, where tasks are pushed to that in turn trigger TravisCI runs.
 * [ ] `vscode-commitlint`: vscode plugin providing inline linting and intellisense for commit messages
 * [ ] Grammar-based, extensible commit parser. First thoughts: https://github.com/conventional-changelog/conventional-changelog/issues/238
 * [ ] Build svg version of https://github.com/dawnlabs/carbon
