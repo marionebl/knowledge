@@ -19,6 +19,7 @@ Ideas for project, libraries and features to implement
 * [ ] Grammar-based, extensible commit parser. First thoughts: https://github.com/conventional-changelog/conventional-changelog/issues/238
 * [ ] Build svg version of https://github.com/dawnlabs/carbon
 * [ ] `pkg-lint`: Lint `package.json` for plausibility, check deps, presence of used npm bins, presence of main and bin entries, etc. 
+* [ ] `asciinema-studio`: Software to trim, cut, edit asciicast recordings
 
 ## Libraries
 
