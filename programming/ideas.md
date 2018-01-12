@@ -31,6 +31,7 @@ Ideas for project, libraries and features to implement
 * [ ] **@commitlint/prompt**: Inline editing interface
 * [ ] **@commitlint/prompt**: Explanations for fields
 * [ ] **@commitlint/core**: Perform automatic fixes
+* [ ] **Rust**: Add `shadowed-let` as lint check to rustc
 
 ## Obsolete
 * [ ] ~~[**bankai**](https://github.com/yoshuawuyts/bankai/issues/31) Hot Module Replacement~~
