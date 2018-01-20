@@ -21,6 +21,8 @@ Ideas for project, libraries and features to implement
 * [ ] `pkg-lint`: Lint `package.json` for plausibility, check deps, presence of used npm bins, presence of main and bin entries, etc. 
 * [ ] `asciinema-studio`: Software to trim, cut, edit asciicast recordings
 * [ ] `asciinema-script`: Markup language to declare automated terminal (input) sequences 
+* [ ] A network trained to digitize my handwriting on remarkable
+* [ ] A minimalistic habit tracker app for iOS/macOS
 
 ## Libraries
 
